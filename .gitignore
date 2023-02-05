@@ -1,4 +1,4 @@
-# ignorowanie spersalizowanych plikow
+# ignorowanie plikow
 .idea/*
 
 # Compiled class file
